@@ -34,4 +34,3 @@ src/            - production code
 ## Context
 This is a portfolio project by Ilja Molcanovs, a Fintech student targeting 
 quant/data science internships in Baltic/Nordic finance. 
-The Baltic focus is intentional — unique angle for local companies like INDEXO, AOX Trade.
